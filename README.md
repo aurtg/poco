@@ -226,9 +226,9 @@ You can decrypt and decompress dataset using 7-Zip as follows (it may take a few
  
 
 ``` 
-
+# Download all dataset files `POCO.zip.split*` from https://github.com/aurtg/poco/releases/tag/0.0
+cat POCO.zip.split* > POCO.zip
 7z x –p<Password> -mem=AES256 POCO.zip 
-
 ``` 
 
 ## Contact
