@@ -2,15 +2,15 @@
 
 ## Table of contents 
 
-[Introduction](#introduction)
-[Target phenomenon in the dataset](#target-phenomenon-in-the-dataset)
-[Outlines](#outlines)
-[List of pronounced words](#list-of-pronounced-words)
-[Participants](#participants)
-[Recording condition](#recoding-condition)
-[Postprocessing](#postprocessing)
-[Data format](#data-format)
-[Download](#download)
+* [Introduction](#introduction)
+* [Target phenomenon in the dataset](#target-phenomenon-in-the-dataset)
+* [Outlines](#outlines)
+* [List of pronounced words](#list-of-pronounced-words)
+* [Participants](#participants)
+* [Recording condition](#recoding-condition)
+* [Postprocessing](#postprocessing)
+* [Data format](#data-format)
+* [Download](#download)
 
 
 
@@ -217,7 +217,7 @@ There are two additional files in the dataset:
 
  
 
-You can download POCO dataset from this [link](https://hogehoge). The file is encrypted by a password. To get the password, please send us an email with your name and affiliation ([Email addresses](#contact)). This procedure is necessary for administrative procedures related to the protection of the subject’s privacy. **You can use this dataset for research purpose only. Do not redistribute audio data of this dataset without our permission.** 
+You can download POCO dataset from this [release](https://github.com/aurtg/poco/releases/tag/0.0). The file is encrypted by a password. To get the password, please send us an email with your name and affiliation ([Email addresses](#contact)). This procedure is necessary for administrative procedures related to the protection of the subject’s privacy. **You can use this dataset for research purpose only. Do not redistribute audio data of this dataset without our permission.** 
 
  
 
@@ -235,9 +235,9 @@ You can decrypt and decompress dataset using 7-Zip as follows (it may take a few
 
 If you have any question, please feel free to send an e-mail to the following authors.
 
-Kosuke Akimoto: kosuke_a@nec.com
-Sakiko Mishima: s.mishima@nec.com
-Ryo Mizushima: r-mizushima@nec.com
+* Kosuke Akimoto: kosuke_a@nec.com
+* Sakiko Mishima: s.mishima@nec.com
+* Ryo Mizushima: r-mizushima@nec.com
 
 ## Paper
 
